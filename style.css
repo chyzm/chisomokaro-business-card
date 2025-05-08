@@ -91,3 +91,9 @@ a:hover {
   margin: 8px 0;
 }
 
+@media (max-width: 768px) {
+  body{
+    margin-top: 130px;
+  }
+  
+}
